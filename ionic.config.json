@@ -1,0 +1,8 @@
+{
+  "name": "shopKirana",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "d36d6523"
+}
